@@ -5,7 +5,7 @@
 
 To run the project, compile the project using the following command:
 
-g++ main.cpp -Wall -Wextra -Werror -pedantic -Wno-unused-result -O2
+g++ main.cpp -Wall -Wextra -Werror -pedantic -Wno-unused-result -O2 -std=c++11
 
 and then execute the resulting file.
 
